@@ -3,7 +3,7 @@
 > An AI-powered web application that turns lecture slides into an interactive study resource.
 > Built for DSAI 4201: Selected Topics — March 2026
 
-**Diala Hussein (60104647) · Shaimah Mohammed (60104699)**
+**Diala Hussein (60104647)
 
 ---
 
